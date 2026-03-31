@@ -1,0 +1,44 @@
+1. Project Title   
+Student Course Enrollment System using Java (GUI + Threads + Collections)   
+2. Problem Statement   
+To design and implement a Student Course Enrollment System that allows users to enter student 
+details, enroll in courses, and display the enrolled students using Java GUI. The system should 
+efficiently handle multiple enrollments using threads and store data using collections.   
+3. Objective   
+• To create a GUI-based enrollment system   
+• To use Java Swing for user interface   
+• To implement multithreading for better performance   
+• To store student data using collections (ArrayList)   
+• To improve problem-solving and programming skills   
+4. Tools Used   
+• Java (JDK)   
+• Swing (GUI)   
+• VS Code / Eclipse / IntelliJ IDEA   
+5. Description   
+This project implements a Student Course Enrollment System using Java. The system provides a 
+graphical user interface where users can enter student name and course details. When the user 
+clicks the enroll button, the student is added to the system.   
+The program uses ArrayList (Collection) to store student data dynamically. It also uses 
+Threads to simulate real-time enrollment processing, ensuring the application remains 
+responsive.   
+The enrolled students are displayed in a list within the GUI.   
+6. Algorithm     
+• Start the program   
+• Display GUI with input fields (Name, Course)   
+• User enters details   
+• Click “Enroll” button   
+• Validate input fields   
+• Create student object   
+• Store student in ArrayList   
+• Start thread for enrollment process   
+• Display student in list   
+• Repeat for multiple users   
+• End program    
+7.Result   
+The Student Course Enrollment System was successfully developed using Java. The program 
+allows users to input student details, processes enrollment using threads, and displays results 
+using a GUI interface.   
+8.Conclusion   
+This project demonstrates the use of Java GUI, multithreading, and collections. It helps in 
+understanding real-time applications and improves programming skills. The system efficiently 
+manages student enrollment and provides a user-friendly interface.  
